@@ -1,0 +1,164 @@
+﻿EmployeeKey,Title,MaritalStatus,SalariedFlag,Gender,PayFrequency,BaseRate,VacationHours,SickLeaveHours,CurrentFlag,DepartmentName,SalesTerritoryKey,EmployeeNationalIDAlternateKey,SalesAmountQuota
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,28000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,367000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,637000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,565000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,244000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,669000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,165000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,460000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,525000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,226000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,7000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,556000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,781000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,872000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,356000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,917000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,469000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,549000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,767000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,353000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,91000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,502000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,665000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,846000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,266000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,780000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,264000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,473000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,583000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,280000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,140000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,550000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,639000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,952000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,341000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,802000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,301000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,493000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,583000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,267000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,70000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,1429000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1355000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,1600000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,542000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,734000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,210000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,1034000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,496000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,483000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,93000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1898000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,593000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,154000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,1324000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1009000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,1352000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,329000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,647000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,226000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,813000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,452000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,341000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,15000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1262000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,409000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,321000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,107000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,729000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,860000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,839000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,239000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,571000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,190000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,470000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,288000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,151000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,33000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,938000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,217000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,281000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,58000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,1194000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1021000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,1369000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,418000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,572000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,224000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,555000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,247000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,284000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,110000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1279000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,404000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,304000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,263000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,1575000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1525000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,1171000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,507000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,950000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,319000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,935000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,1051000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,631000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,184000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1506000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,1262000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,516000
+294,Pacific Sales Manager,M,-1,M,2,48.101,20,30,-1,Sales,11,481044938,132000
+295,Sales Representative,S,-1,F,2,23.0769,35,37,-1,Sales,8,954276278,728000
+296,Sales Representative,S,-1,F,2,23.0769,36,38,-1,Sales,9,758596752,478000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,116000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,1218000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1276000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,971000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,453000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,675000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,450000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,684000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,707000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,372000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,324000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1419000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,1057000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,380000
+294,Pacific Sales Manager,M,-1,M,2,48.101,20,30,-1,Sales,11,481044938,40000
+295,Sales Representative,S,-1,F,2,23.0769,35,37,-1,Sales,8,954276278,566000
+296,Sales Representative,S,-1,F,2,23.0769,36,38,-1,Sales,9,758596752,389000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,84000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,849000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,894000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,714000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,280000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,538000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,343000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,614000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,569000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,234000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,116000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,883000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,707000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,454000
+294,Pacific Sales Manager,M,-1,M,2,48.101,20,30,-1,Sales,11,481044938,7000
+295,Sales Representative,S,-1,F,2,23.0769,35,37,-1,Sales,8,954276278,366000
+296,Sales Representative,S,-1,F,2,23.0769,36,38,-1,Sales,9,758596752,399000
+272,North American Sales Manager,M,-1,M,2,48.101,14,27,-1,Sales,11,502097814,187000
+281,Sales Representative,S,-1,M,2,23.0769,38,39,-1,Sales,2,841560125,869000
+282,Sales Representative,M,-1,F,2,23.0769,27,33,-1,Sales,4,191644724,1124000
+283,Sales Representative,S,-1,F,2,23.0769,24,32,-1,Sales,3,615389812,947000
+284,Sales Representative,M,-1,M,2,23.0769,33,36,-1,Sales,6,234474252,390000
+285,Sales Representative,M,-1,M,2,23.0769,29,34,-1,Sales,5,716374314,686000
+286,Sales Representative,S,-1,F,2,23.0769,22,31,-1,Sales,1,61161660,390000
+287,Sales Representative,M,-1,M,2,23.0769,26,33,-1,Sales,4,139397894,724000
+288,Sales Representative,M,-1,M,2,23.0769,31,35,-1,Sales,6,399771412,830000
+289,Sales Representative,S,-1,M,2,23.0769,23,31,-1,Sales,1,987554265,403000
+290,European Sales Manager,M,-1,F,2,48.101,21,30,-1,Sales,11,982310417,1000
+291,Sales Representative,M,-1,F,2,23.0769,37,38,-1,Sales,10,668991357,1329000
+292,Sales Representative,S,-1,M,2,23.0769,34,37,-1,Sales,7,134219713,908000
+293,Sales Representative,M,-1,M,2,23.0769,39,39,-1,Sales,1,90836195,497000
+294,Pacific Sales Manager,M,-1,M,2,48.101,20,30,-1,Sales,11,481044938,26000
+295,Sales Representative,S,-1,F,2,23.0769,35,37,-1,Sales,8,954276278,627000
+296,Sales Representative,S,-1,F,2,23.0769,36,38,-1,Sales,9,758596752,421000
